@@ -1,2 +1,3 @@
 .vscode
 .idea
+api/config/db_config.php

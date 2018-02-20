@@ -5,8 +5,8 @@
 
     private $host = 'localhost';
     private $dbname = 'game_score';
-    private $username = 'localhost';
-    private $password = 'localhost';
+    private $username = 'root';
+    private $password = 'root';
     public $conn;
     
 
