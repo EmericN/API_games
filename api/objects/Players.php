@@ -14,7 +14,7 @@ class Players
         $stmt  = $this->conn->prepare($request);
         $stmt->execute();
 
-        return $stmt;
+        return $stmt->fetch();
     }
 
 }
