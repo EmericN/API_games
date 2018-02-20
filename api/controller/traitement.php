@@ -80,4 +80,3 @@ $response = json_decode($getPostData, true);
             echo '}';
         }
     }
-
